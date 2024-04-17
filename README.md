@@ -11,7 +11,6 @@
 
 ## Task 3: Customer Retention📌
 - Create a dashboard using the defined KPIs to reflect customer demographics and insights.
-- Write a concise email to the engagement partner explaining your findings and providing suggestions for necessary changes based on the dashboard you've created.
  
 ## Task 4: Diversity & Inclusion📈
 - Create visualizations to represent HR data, particularly focusing on gender-related KPIs.
